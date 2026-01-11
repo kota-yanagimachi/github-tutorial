@@ -22,7 +22,6 @@
 
 <img src="./images/hae.jpg" width="40%">
 
-## 宿
 ## 宿  
 <span style="color:#005599;">アイランドホテル与那国</span><br>  
 ~~**注意点**: パスポート用意のこと~~<br>
