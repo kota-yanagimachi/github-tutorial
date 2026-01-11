@@ -1,0 +1,56 @@
+/* @theme theme */
+@charset "UTF-8";
+
+@import "default";
+
+.summary {
+  font-style: bold;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.comment {
+  font-style: italic;
+  font-size: 25px;
+}
+
+.caption {
+  position: absolute;
+  right: 50px;
+}
+
+section {
+  font-size: 38px;
+  position: relative;
+  height: 100vh;
+}
+
+h1 {
+  color: #003366;
+  font-size: 85px;
+}
+
+h2 {
+  color: #005599;
+  font-size: 70px;
+}
+
+h3 {
+  border-radius: 10px;
+  background-color: cadetblue;
+  padding: 10px;
+  position: absolute;
+  top: 40px;
+}
+
+section:not(.answer) img {
+  position: absolute;
+  top: 0;
+  height: 90%;
+}
+
+section.answer img {
+  height: 300px;
+  width: auto;
+}
