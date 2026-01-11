@@ -51,6 +51,7 @@ h3 {
 section:not(.answer) img {
   position: absolute;
   top: 0;
+  left: 0;
   height: 90%;
 }
 
