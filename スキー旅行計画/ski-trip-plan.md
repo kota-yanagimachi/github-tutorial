@@ -12,6 +12,8 @@
 
 総員6名現在員７名全員います
 
+<img src="./images/hae.jpg" width="40%">
+
 ## 宿
 ![スキー宿（仮）](./images/okinawa-hotel.jpeg)
 
