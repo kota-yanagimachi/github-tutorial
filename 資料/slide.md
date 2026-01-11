@@ -136,6 +136,24 @@ git --version
 
 ---
 
+### 個人演習でやること
+- ①ローカルでGitを触る
+  - <span class=forgetable>init(gitに仕事を始めさせる)</span>
+  - add(確定したい変更内容を追加)
+  - commit(変更内容を確定)
+  - <span class=forgetable>configでユーザー名とメアド設定</span>
+
+---
+
+### 個人演習でやること
+- ②GitHubにアップロード(通称：push)する
+  - <span class=forgetable>空のリポジトリ(保存場所)を作る</span>
+  - <span class=forgetable>remoteでリポジトリと紐付け</span>
+  - push(アップロード)する
+  - <span class=forgetable>GitHubでPAT(鍵)を生成する</span>
+  - <span class=forgetable>PATを入力する</span>
+---
+
 ### git init
 
 ```bash
@@ -204,6 +222,33 @@ git push origin main
 - add：弾丸を装填
 - commit：撃鉄を起こす
 - push：GitHubに向けて打つ！→命中！
+
+---
+
+### リポジトリを作る
+がんばれ
+
+---
+
+### add commit pushしてみよう
+やってみろ。pushで止まると思う。
+
+---
+
+### PATが必要
+- PATとは
+パーソナルアクセストークン。要するに鍵。消費期限を設定できる。
+- 作ってみよう
+  - settingsの一番下、developper settingsでクラシックのものを作ろう
+  - Expiration(期限)は無期限以外で
+  - Select scope(権限)はrepo
+  - Generate token(ぽちっとな) 
+
+---
+
+### add commit pushしてみよう(続編)
+PAT作った時に出てきた文字列をコピペするとpush可能
+<div class=comment>これで基本操作習得完了<br>どんどんpushしていけ</div>
 
 ---
 
