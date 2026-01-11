@@ -143,6 +143,8 @@ git --version
   - commit(変更内容を確定)
   - <span class=forgetable>configでユーザー名とメアド設定</span>
 
+<div class=comment>灰色の項目はたまにしか使わないから忘れていいよ</div>
+
 ---
 
 ### 個人演習でやること
@@ -152,6 +154,9 @@ git --version
   - push(アップロード)する
   - <span class=forgetable>GitHubでPAT(鍵)を生成する</span>
   - <span class=forgetable>PATを入力する</span>
+
+<div class=comment>灰色の項目はたまにしか使わないから忘れていいよ</div>
+
 ---
 
 ### git init
@@ -231,7 +236,7 @@ git push origin main
 ---
 
 ### add commit pushしてみよう
-やってみろ。pushで止まると思う。
+やってみろ。初めての人はpushで止まると思う。
 
 ---
 

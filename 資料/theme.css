@@ -20,6 +20,10 @@
   right: 50px;
 }
 
+.forgetable {
+  color: darkgray;
+}
+
 section {
   font-size: 38px;
   position: relative;
