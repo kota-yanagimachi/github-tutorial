@@ -182,6 +182,23 @@ git remote add origin https://github.com/<user>/<repo>.git
 
 ---
 
+### add / commit / push のコマンド
+
+- add
+```bash
+git add .
+```
+- commit
+```bash
+git commit -m "この変更のタイトルとか書く"
+```
+- push
+```bash
+git push origin main
+```
+
+---
+
 ### add / commit / push の比喩
 
 - add：弾丸を装填
