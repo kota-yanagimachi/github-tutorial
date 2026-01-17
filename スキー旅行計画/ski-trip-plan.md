@@ -40,5 +40,7 @@
 ![宿泊予定の部屋](./images/mistral_room.jpg)
 
 ## 飯
-夕食
+朝食　1300円
+夕食　2500円
+![朝食](https://cdn.goope.jp/182067/211022192910-6172927665a4c.jpg)
 ![夕食](https://cdn.goope.jp/182067/2110101608567vq4_l.jpg)
