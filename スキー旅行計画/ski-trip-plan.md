@@ -39,3 +39,6 @@
 泊まる部屋
 ![宿泊予定の部屋](./images/mistral_room.jpg)
 
+## 飯
+夕食
+![夕食](https://cdn.goope.jp/182067/2110101608567vq4_l.jpg)
